@@ -9,9 +9,8 @@ Instructions:
 3) npm start.
 4) App is running. you can start querying it.
 
-queries for example:
+query for example:
 http://localhost:3000/dependency/express/latest
-
 
 API available:
 GET /dependency/<packageName>/<packageVersion> - Get dependency tree
